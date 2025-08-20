@@ -110,3 +110,4 @@ Today is the sixth and final day of Alliance Showdown event! Use:
 √ Bear Hunt 
 √ Send/Raid trucks
 ```
+[← BACK TO MAIN PAGE](https://github.com/wosstate1687/allianceshowdown)
